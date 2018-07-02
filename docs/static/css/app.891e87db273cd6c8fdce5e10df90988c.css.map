@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.891e87db273cd6c8fdce5e10df90988c.css"],"names":[],"mappings":"AACA,KACE,eAAiB,CAClB,AAED,gBACE,gBAAiB,AACjB,WAAa,CACd","file":"app.891e87db273cd6c8fdce5e10df90988c.css","sourcesContent":["\n#app {\n  margin-top: 30px;\n}\n\n#translate-form {\n  max-width: 500px;\n  margin: auto;\n}\n"]}
